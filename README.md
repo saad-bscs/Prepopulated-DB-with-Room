@@ -1,1 +1,1 @@
-n this project, I have used Room database with Dagger Hilt dependency injection. The data is pre-populated, meaning an already built database is present in the assets folder of the app. Keep learning!
+In this project, I have used Room database with Dagger Hilt dependency injection. The data is pre-populated, meaning an already built database is present in the assets folder of the app. Keep learning!
